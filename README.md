@@ -8,4 +8,4 @@ ATP Tennis machine learning project using tennis domain knowledge for informed f
 
 4) Model selection -- logistic regression / random forest regression / neural network. Analysis of model accuracies, coefficients, PCA
 
-**Best model: 79% accuracy**
+**Best model: 81% accuracy**
